@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow-y: hidden;
+}
+
+textarea {
+  padding: 8px;
+  width: calc(100% - 18px);
+  height: calc(100% - 18px);
+  resize: none;
+}
